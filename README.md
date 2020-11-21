@@ -1,4 +1,3 @@
 # calender
-small calender app in java. the calender allows the user to save String data to every date desired, using gui.
-a small runtime issue might arise, depend on the working directory.
-as long as the file pic.jpg  is inside the working directory, and the classpath environmental variable is set to "./", it should be fine.
+small calendar app in java, written as a course exercise. the calendar allows the user to save String data to every date desired, using gui.
+when compiling and running, see that file pic.jpg  is inside the working directory, and the classpath environmental variable is set to "./".
